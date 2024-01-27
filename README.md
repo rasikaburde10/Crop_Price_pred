@@ -8,7 +8,9 @@ Farmers are currently grappling with unpredictable price fluctuations, primarily
 
 # Our Solution
 Machine Learning Approach: We have employed advanced Machine Learning techniques to develop a robust solution for predicting crop prices.
+
 Polynomial Multivariable Regression: At the core of our system is the Polynomial Multivariable Regression model. This technique is utilized to forecast crop values based on historical data sets, which include Annual Rainfall and the Wholesale Price Index (WPI) over the past decade.
+
 Data Sources: The model is trained on authentic and comprehensive datasets, ensuring the accuracy and reliability of our predictions.
 
 # Key Features and Benefits
